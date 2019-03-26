@@ -23,4 +23,7 @@
 hs_err_pid*
 
 data-sets/
+**/.idea/workspace.xml
 out/
+.gradle/
+
